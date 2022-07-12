@@ -2,4 +2,4 @@ This domain https://prod-gql-docs.nft.com/ was successfully been takenover by sn
 
 Contact: sahilbugade.2832@gmail.com
 
-The above task have been performed for security research purposes and will be released out buy NFT.com bug bounty program.
+The above task have been performed for security research purposes and will be released out by NFT.com bug bounty program.
